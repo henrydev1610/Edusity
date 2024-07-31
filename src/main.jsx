@@ -8,6 +8,7 @@ import Programs from './Components/Programs/Programs.jsx'
 import About from './Components/About/About.jsx'
 import Campus from './Components/Campus/Campus.jsx'
 import Testemunials from './Components/Testemunials/Testemunials.jsx'
+import Contact from './Components/Contact/Contact.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
@@ -20,6 +21,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Campus/>
     <Title title={"Testemunhos"} subtitle={'Oque nossos estudantes dizem'}/>
     <Testemunials/>
+    <Title title={"Contate-nos"} subtitle={'Entre em contato com a gente!'}/>
+    <Contact/>
 
     </div>
   </React.StrictMode>,
