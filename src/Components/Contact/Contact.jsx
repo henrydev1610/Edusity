@@ -11,7 +11,7 @@ import { useState } from "react"
 const Contact = () => {
 
     const [result, setResult] = useState('')
-
+    //https://web3forms.com/#start
     const onSubmit = async (event) => {
       event.preventDefault();
       setResult("Enviando...");
@@ -48,14 +48,14 @@ const Contact = () => {
             <ul>
                 <li><img src={mail_icon} alt="contact-icon" />contato@universidade.dev</li>
                 <li> <img src={phone_icon} alt="" /> +55 11 3454-5443</li>
-                <li> <img src={location_icon} alt="" /> Av Filla 45, São paulo-SP <br /> Brasil </li>
+                <li> <img src={location_icon} alt="" /> Av Dona Marina 45, São Paulo-SP <br /> Brasil </li>
             </ul>
 
         </div>
         <div className="contact-col">
                 <form onSubmit={onSubmit}>
                     <label> Nome * </label>
-                    <input type="text" name="name" id="" placeholder="Digite o seu Nome " required/>
+                    <input type="text" name="name" id="" placeholder="Digite o seu nome " required/>
                     <label> Telefone *</label>
                     <input type="tel" name="phone
                     " placeholder="Insira seu número de telefone" required />

@@ -9,6 +9,8 @@ import About from './Components/About/About.jsx'
 import Campus from './Components/Campus/Campus.jsx'
 import Testemunials from './Components/Testemunials/Testemunials.jsx'
 import Contact from './Components/Contact/Contact.jsx'
+import Footer from './Components/Footer/Footer.jsx'
+import FooterHenry from './Components/Footer-Henry/FooterHenry.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
@@ -23,7 +25,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Testemunials/>
     <Title title={"Contate-nos"} subtitle={'Entre em contato com a gente!'}/>
     <Contact/>
-
+    <Footer/>
     </div>
+    <FooterHenry/>
   </React.StrictMode>,
 )

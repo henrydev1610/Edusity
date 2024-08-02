@@ -1,0 +1,11 @@
+.footerHenry{
+    width: 100%;
+    color: aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    transition: 0.5s;
+    padding: 5px;
+}
+.footerHenry p a:hover{
+    text-decoration: underline;
+}
