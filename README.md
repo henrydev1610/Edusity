@@ -1,9 +1,3 @@
-# React + Vite
-
-
-
-
-
 
 # Edusity
 
@@ -43,6 +37,6 @@ Abra um pull request
 # Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-# Autor: Henry
+
 # Email: henrybenjamin.dev@gmail.com
 
