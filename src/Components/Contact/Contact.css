@@ -79,3 +79,10 @@ margin-left: 10px;
         width: 350px;
     }
 }
+
+@media (max-width:500px){
+
+.contact form button {
+    width: 300px;
+}
+}
