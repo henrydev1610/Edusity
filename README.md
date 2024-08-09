@@ -1,10 +1,21 @@
 # React + Vite
 
-[Projeto](https://edusity-mu-tawny.vercel.app/)
+
+
+
+
 
 # Edusity
 
 Edusity é um modelo de site de faculdade desenvolvido com React e Vite. Este projeto é um exemplo de como criar uma aplicação web moderna e rápida para instituições de ensino superior, proporcionando uma experiência de usuário otimizada e intuitiva.
+
+
+# Demonstração:
+<img src="./gif/gif.gif"/>
+ 
+ [Link para o projeto](https://edusity-mu-tawny.vercel.app/)
+
+
 
 ## 🚀 Iniciando
 
