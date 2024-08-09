@@ -19,7 +19,7 @@ node -v
 npm -v
 
 # Clone do repositório
-git clone https://github.com/seuusuario/edusity.git
+git clone https://github.com/henrydev1610/Edusity.git
 Contribuindo
 Se você deseja contribuir com o projeto, siga estas etapas:
 
