@@ -16,20 +16,20 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu ambiente. Voc
 node -v
 npm -v
 
-#Clone do repositório
+# Clone do repositório
 git clone https://github.com/seuusuario/edusity.git
 Contribuindo
 Se você deseja contribuir com o projeto, siga estas etapas:
 
-##Faça um fork do repositório.
+# Faça um fork do repositório.
 Crie uma branch para a sua feature (git checkout -b minha-nova-feature).
 Faça as alterações e comite-as (git commit -am 'Adiciona nova feature').
 Envie a branch para o repositório remoto (git push origin minha-nova-feature).
 Abra um pull request
 
-Contato
+# Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-Autor: Henry
-Email: henrybenjamin.dev@gmail.com
+# Autor: Henry
+# Email: henrybenjamin.dev@gmail.com
 
