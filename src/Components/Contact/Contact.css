@@ -61,8 +61,21 @@ margin-left: 10px;
     justify-content: center;
 
 }
+
 .contact form span{
     display: block;
     margin: 10px 0 0 20px;
     
 } 
+/* -------------Media Query ------------ */
+@media (max-width: 700px){
+    .contact{
+        display: block;
+    }
+    .contact-col{
+        padding: 20px;
+    }
+    .contact form button {
+        width: 350px;
+    }
+}

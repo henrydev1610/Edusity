@@ -42,7 +42,7 @@ const Contact = () => {
         <div className="contact-col">
             <h3>Envie-nos uma mensagem! <img src={msg_icon} alt="" /></h3>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore delectus alias doloribus. Quia cum iure, officiis porro id provident perferendis natus commodi debitis, neque ex, eos facilis nam corporis recusandae?
+            Tem dúvidas ou precisa de informações sobre nossos cursos e horários? Preencha o formulário e nossa equipe responderá o mais rápido possível. Estamos aqui para ajudar você com qualquer pergunta ou necessidade. Agradecemos seu contato e interesse em nossa faculdade!
                 
             </p>
             <ul>
